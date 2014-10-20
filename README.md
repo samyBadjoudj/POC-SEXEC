@@ -1,7 +1,7 @@
 POC-SEXEC
 =========
 
-Naive approach to understand, challenges to scale a SEC.
+Naive approach to try to understand, challenges to scale a Symbolic Execution.
 
 
 Symbolic execution can help to test a software, analyse it.
@@ -20,6 +20,12 @@ Identifying on wich assignement or change the conditions values depends on. Here
 
 This codes needs a proper parser(to identify how values changes, and on wich other values they depend) ,
 track in depth, variables inside each path.
+
+
+It helped me to understand what are the constraints to work on this field, I hope it will help you :).
+
+
+http://en.wikipedia.org/wiki/Symbolic_execution
 
 
 
