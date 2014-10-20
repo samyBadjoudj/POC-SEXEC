@@ -6,8 +6,8 @@ Naive approach to try to understand, challenges to scale a Symbolic Execution.
 
 Symbolic execution can help to test a software, analyse it.
 
-Symbolic execution can be very difficult on complexe softwarees, when we want to identify all possible paths.
-As well in OO programming language.
+Symbolic execution can be very difficult on complexe softwares, when we want to identify all possible paths.
+It fits well on functional languages, but can be difficult to manage on OO programming languages.
 
 Here is a small example of a simple method working on primitives types (compute), that tries to print the variable and
 conditions to reach some part of the if.
